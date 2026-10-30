@@ -37,3 +37,4 @@ flowchart LR
 > *"Emniyet fonksiyonu (kramiyer-pinyon tablanın durdurulması, rezistans enerjisinin kesilmesi ve vakum tahliyesi); Delta PLC, HMI veya uzak erişim modülü tamamen ele geçirilse dahi tablayı durdurabilmeli ve operatörü koruyabilmelidir. Emniyet parametreleri ve muting lojiği hiçbir koşulda uzaktan değiştirilememeli, yalnızca fiziksel kilit anahtarı ile sahada ve yetkiyle yapılandırılabilmelidir."*
 
 > Tarafsızlık notu: Bu föy çözüm tasarlatmaz; gereksinimi tanımlatır.
+

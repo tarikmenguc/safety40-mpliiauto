@@ -23,3 +23,4 @@ Evet, Senaryo 3 (Skor 3). Gerçekleşme olasılığı (L=1) ve maruz kalma sıkl
 - Delta PLC panosu fiziksel kilit altına alınacak ve anahtar yalnızca tesis emniyet mühendisinde bulunacaktır.
 - Kullanılmayan USB ve Ethernet mühendislik portlarına fiziksel port kilitleri (port blocker) takılacaktır.
 - PLC lojik ve parametre değişiklikleri firmware checksum doğrulamasına tabi tutulacak ve periyodik denetim takvimine bağlanacaktır.
+

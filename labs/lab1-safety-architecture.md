@@ -42,3 +42,4 @@ Safety PLC lojik yazılımı, ışık perdesi muting ayarları (tablanın otomat
 
 **8. Siber müdahale hangi noktadan bu fonksiyonu bozar?**
 Uzak bakım modülü → Safety PLC köprüsü. Saldırgan uzak bakım modülü üzerinden erişim sağlayarak ışık perdesinin muting parametresini veya emniyet lojiğini bypass ederse, operatör folyo hizalaması yaparken metal tabla içeri sürülür, rezistanslar kontrolsüz ısınır ve operatör pres hücresinde sıkışır.
+
