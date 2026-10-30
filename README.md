@@ -1,7 +1,7 @@
 # Safety 4.0 Bootcamp – Mergen MPL.II.AUTO Otomatik Vakum Membran Pres Makinesi
 
-**Öğrenci:** [Adınız Soyadınız] – [Öğrenci Numaranız]  
-**Bölüm:** [Fakülte / Bölümünüz]  
+**Öğrenci:** Muhammed Tarık Mengüç – 235541114  
+**Bölüm:** Yazılım Mühendisliği  
 **Makine:** Mergen Mekatronik Makina – MPL.II.AUTO Otomatik Vakum Membran Pres Makinesi (TWM Portal)
 
 Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış **kör test cevaplarını** içerir.
@@ -46,3 +46,4 @@ Makine; ahşap kapak, MDF ve mobilya sektöründe panellerin üzerine PVC, PP ve
 - [AİMSAD – Ağaç İşleme Makine Sanayicileri Derneği](https://aimsaddergisi.com)
 
 > Bu bir eğitim çıktısıdır, resmî denetim değildir.
+
